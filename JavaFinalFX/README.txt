@@ -118,3 +118,6 @@ JavaFinalFX
 	test	
 	build.xml	
 	manifest.mf
+	-----------------------------------------------------------
+	--Original project for Ivy Tech Community College of Indiana--
+	--Last revision May 2018--
